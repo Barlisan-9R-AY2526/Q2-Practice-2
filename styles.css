@@ -1,0 +1,14 @@
+body {
+    background-color:#ff9696;
+}
+
+
+.hero-image {
+    background-image: url(texture1.jpg);
+    width: 100%;
+    border: 4px solid #ffaaa0;
+}
+
+.box {
+    border: 4px solid #ffaaa0;
+}
